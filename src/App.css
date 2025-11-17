@@ -1,0 +1,37 @@
+body{
+    background-color: mintcream;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    size-height: 100vh;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    margin: 0;
+    margin-bottom: .5rem;
+}
+
+.input {
+    border: 1px solid #333;
+    border-radius: .3em;
+    padding: .25rem;
+    width: 7em;
+}
+
+Test {
+    margin: 0;
+    margin-bottom: .5rem;
+}
+
+select {
+    margin-left: .5rem;
+}
+
+.equals {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
